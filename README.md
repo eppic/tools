@@ -42,7 +42,7 @@
 
 ## Gaming
  - [Cheat Engine](https://www.cheatengine.org/) - Edit System Memory to cheat Games
- - [BOTW Editor]() - Edit Breath Of The Wild Memory in Cemu
+ - [BOTW Editor](https://github.com/eppic/tools/raw/master/bin/botw_editor_2-0-0-9d.zip) - Edit Breath Of The Wild Memory in Cemu
  - [PKHeX](https://github.com/kwsch/PKHeX/releases/latest) - Any Pokemon Game Save Editor
  - [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox/releases/latest) - Edit Switch and Wii U Game Files
  - [USBHelperLauncher](https://github.com/FailedShack/USBHelperLauncher/releases/latest) - Download Wii U Games with title keys
@@ -51,7 +51,7 @@
  - [CCStopper](https://github.com/E-Soda/CCStopper/releases/latest) - Stop Creative Cloud Shit
  - [PinCCF](https://helpx.adobe.com/content/dam/help/en/creative-cloud/kb/remove-cc-files-folder/jcr_content/main-pars/download_section_1160112894/download-1/PinCCF.zip) - Unpin Creative Cloud Files from Explorer
  - [GenP](https://www.reddit.com/r/GenP/) - Patch Adobe Creative Cloud Products
- - [CCMaker 1.3.14]() - Download Adobe Creative Cloud Software
+ - [CCMaker 1.3.14](https://www.reddit.com/r/GenP/) - Download Adobe Creative Cloud Software
 
 ## Other
  - [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner) - Removes Adware
@@ -60,4 +60,4 @@
  - [Gopher360](https://github.com/Tylemagne/Gopher360/releases/latest) - Control Mouse with Controller
  - [Sizer](http://www.brianapps.net/sizer/) - Edit Window Size exactly
  - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases/latest) - Center Taskbar in Win10 and translucent Taskbar Utility (1.6.1.0 translucent works on Win11)
- - [Office C2R Install]() - MS Office Patcher and Downloader
+ - [Office C2R Install](https://www.google.com/search?q=office+c2r) - MS Office Patcher and Downloader
