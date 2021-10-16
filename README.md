@@ -23,7 +23,7 @@
  - [OORegeditor](https://www.oo-software.com/de/ooregeditor) - Better Regedit with better Search
  - [OOShutUp10++](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe) - Change Windows Settings (Privacy)
  - [WinAero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Modifies Windows Registry Stuff
- - [Take Ownership]() - Take File / Folder Ownership through Context Menu Click
+ - [Take Ownership](https://github.com/eppic/tools/tree/master/bin/Take_Ownership) - Take File / Folder Ownership through Context Menu Click
  - [ExecIT](https://winaero.com/download-execti-run-as-trustedinstaller/) - Execute as Trusted Installer
 
 ## Media
