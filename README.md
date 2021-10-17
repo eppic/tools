@@ -19,7 +19,7 @@
  - [WizTree](https://diskanalyzer.com/download) - TreeSize/WinDirStat Alternative: See Folder Sizes in List
  - [Resource Hacker](http://www.angusj.com/resourcehacker/resource_hacker.zip) - Edit simple .exe data
 
-## Registry Hacks
+## Registry
  - [OORegeditor](https://www.oo-software.com/de/ooregeditor) - Better Regedit with better Search
  - [OOShutUp10++](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe) - Change Windows Settings (Privacy)
  - [WinAero Tweaker](https://winaero.com/downloads/winaerotweaker.zip) - Modifies Windows Registry Stuff
