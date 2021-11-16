@@ -44,10 +44,13 @@
  - [Switch Toolbox](https://github.com/KillzXGaming/Switch-Toolbox/releases/latest) - Edit Switch and Wii U Game Files
 
 ## Adobe
+ - [CCComa](https://github.com/eppic/CCComa) - Useful Adobe Creative Cloud Tools
  - [CCStopper](https://github.com/E-Soda/CCStopper/releases/latest) - Stop Creative Cloud Shit
- - [CCMaker 1.3.14](https://www.reddit.com/r/GenP/) - Download Adobe Creative Cloud Software
+ - [GenP](https://www.reddit.com/r/GenP/) - Patch Adobe Creative Cloud Products
 
 ## Other
+ - [VirtualizationSwitch](https://github.com/eppic/VirtualizationSwitch) - Turn Virtualization on Windows 10+ ON or OFF
+ - [QuietCMD](https://github.com/eppic/QuietCMD) - Mute Windows Copyright Information on CMD
  - [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner) - Removes Adware
  - [rufus](https://github.com/pbatard/rufus/releases/latest) - Make USB installation Media
  - [antimicro](https://github.com/AntiMicro/antimicro/releases/latest) - Map Controller to Keyboard and reverse
