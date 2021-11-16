@@ -49,9 +49,7 @@
 
 ## Adobe
  - [CCStopper](https://github.com/E-Soda/CCStopper/releases/latest) - Stop Creative Cloud Shit
- - [PinCCF](https://helpx.adobe.com/content/dam/help/en/creative-cloud/kb/remove-cc-files-folder/jcr_content/main-pars/download_section_1160112894/download-1/PinCCF.zip) - Unpin Creative Cloud Files from Explorer
  - [GenP](https://www.reddit.com/r/GenP/) - Patch Adobe Creative Cloud Products
- - [CCMaker 1.3.14](https://www.reddit.com/r/GenP/) - Download Adobe Creative Cloud Software
 
 ## Other
  - [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner) - Removes Adware
