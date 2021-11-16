@@ -8,18 +8,16 @@
  - [Everything](https://www.voidtools.com/) - Search whole PC super-fast
  - [HotkeyP](http://petr.lastovicka.sweb.cz/others.html) - Keyboard Shortcut Manager
  - [KeePass](https://keepass.info/download.html) - Password Manager with Plugins for Windows
- - [Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases/latest) - Run Programs "risk-free", seperated from Windows
 
 ## Analyze
  - [NirSoft](https://www.nirsoft.net/) - Many cool Tools similar to Sysinternals
- - [CPU-Z](https://www.cpuid.com) - Check CPU Activity
  - [HWinfo](https://www.hwinfo.com/download/) - Informations about Hardware
  - [ImDisk](https://sourceforge.net/projects/imdisk-toolkit/) - Disk Images (Set Folder/File as Drive)
  - [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) - See Devices connected to Local Network
  - [WizTree](https://diskanalyzer.com/download) - TreeSize/WinDirStat Alternative: See Folder Sizes in List
  - [Resource Hacker](http://www.angusj.com/resourcehacker/resource_hacker.zip) - Edit simple .exe data
 
-## Registry Hacks
+## Registry
  - [OORegeditor](https://www.oo-software.com/de/ooregeditor) - Better Regedit with better Search
  - [OOShutUp10++](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe) - Change Windows Settings (Privacy)
  - [Take Ownership](https://github.com/eppic/tools/tree/master/bin/Take_Ownership) - Take File / Folder Ownership through Context Menu Click
@@ -47,7 +45,11 @@
 
 ## Adobe
  - [CCStopper](https://github.com/E-Soda/CCStopper/releases/latest) - Stop Creative Cloud Shit
+<<<<<<< HEAD
  - [CCMaker 1.3.14](https://www.reddit.com/r/GenP/) - Download Adobe Creative Cloud Software
+=======
+ - [GenP](https://www.reddit.com/r/GenP/) - Patch Adobe Creative Cloud Products
+>>>>>>> 5ea28317017a548a3bc7e2259bb37f6308f687c0
 
 ## Other
  - [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner) - Removes Adware
@@ -55,4 +57,9 @@
  - [antimicro](https://github.com/AntiMicro/antimicro/releases/latest) - Map Controller to Keyboard and reverse
  - [Gopher360](https://github.com/Tylemagne/Gopher360/releases/latest) - Control Mouse with Controller
  - [Sizer](http://www.brianapps.net/sizer/) - Edit Window Size exactly
+<<<<<<< HEAD
  - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases/latest) - Center Taskbar in Win10 and translucent Taskbar Utility (1.6.1.0 translucent works on Win11)
+=======
+ - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases/latest) - Center Taskbar in Win10 and translucent Taskbar Utility (1.6.1.0 translucent works on Win11)
+ - [Office C2R Install](https://www.google.com/search?q=office+c2r) - MS Office Patcher and Downloader
+>>>>>>> 5ea28317017a548a3bc7e2259bb37f6308f687c0
