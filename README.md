@@ -8,11 +8,9 @@
  - [Everything](https://www.voidtools.com/) - Search whole PC super-fast
  - [HotkeyP](http://petr.lastovicka.sweb.cz/others.html) - Keyboard Shortcut Manager
  - [KeePass](https://keepass.info/download.html) - Password Manager with Plugins for Windows
- - [Sandboxie](https://github.com/sandboxie-plus/Sandboxie/releases/latest) - Run Programs "risk-free", seperated from Windows
 
 ## Analyze
  - [NirSoft](https://www.nirsoft.net/) - Many cool Tools similar to Sysinternals
- - [CPU-Z](https://www.cpuid.com) - Check CPU Activity
  - [HWinfo](https://www.hwinfo.com/download/) - Informations about Hardware
  - [ImDisk](https://sourceforge.net/projects/imdisk-toolkit/) - Disk Images (Set Folder/File as Drive)
  - [Wireless Network Watcher](https://www.nirsoft.net/utils/wireless_network_watcher.html) - See Devices connected to Local Network
