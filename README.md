@@ -45,11 +45,7 @@
 
 ## Adobe
  - [CCStopper](https://github.com/E-Soda/CCStopper/releases/latest) - Stop Creative Cloud Shit
-<<<<<<< HEAD
  - [CCMaker 1.3.14](https://www.reddit.com/r/GenP/) - Download Adobe Creative Cloud Software
-=======
- - [GenP](https://www.reddit.com/r/GenP/) - Patch Adobe Creative Cloud Products
->>>>>>> 5ea28317017a548a3bc7e2259bb37f6308f687c0
 
 ## Other
  - [AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner) - Removes Adware
@@ -57,9 +53,4 @@
  - [antimicro](https://github.com/AntiMicro/antimicro/releases/latest) - Map Controller to Keyboard and reverse
  - [Gopher360](https://github.com/Tylemagne/Gopher360/releases/latest) - Control Mouse with Controller
  - [Sizer](http://www.brianapps.net/sizer/) - Edit Window Size exactly
-<<<<<<< HEAD
  - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases/latest) - Center Taskbar in Win10 and translucent Taskbar Utility (1.6.1.0 translucent works on Win11)
-=======
- - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX/releases/latest) - Center Taskbar in Win10 and translucent Taskbar Utility (1.6.1.0 translucent works on Win11)
- - [Office C2R Install](https://www.google.com/search?q=office+c2r) - MS Office Patcher and Downloader
->>>>>>> 5ea28317017a548a3bc7e2259bb37f6308f687c0
